@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CRIME", "CRIME\CRIME.dtproj", "{D79EF04D-36BC-45E1-B676-1DCFFAFE092F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79EF04D-36BC-45E1-B676-1DCFFAFE092F}.Development|Default.ActiveCfg = Development
+		{D79EF04D-36BC-45E1-B676-1DCFFAFE092F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B473CA6-D4E5-4204-B463-A6FC95F086D9}
+	EndGlobalSection
+EndGlobal
